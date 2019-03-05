@@ -1,2 +1,2 @@
 # CarzyMarx
-狂欢马克思APP
+Android APP: 狂欢马克思
