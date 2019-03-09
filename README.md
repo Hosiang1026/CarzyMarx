@@ -4,6 +4,4 @@
 
 ## 网站：http://www.hosiang.cn
 
-## 安装包下载
-
-## [CarzyMarx.apk](https://github.com/Hosiang1026/python-study/tree/master/python-flask)
+## 安装包下载: [CarzyMarx.apk](https://github.com/Hosiang1026/CarzyMarx/app/release/app-release.apk)
