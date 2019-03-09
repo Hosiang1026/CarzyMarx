@@ -4,4 +4,4 @@
 
 ## 网站：http://www.hosiang.cn （狂欢马克思）
 
-## 安装包下载: [CarzyMarx.apk](https://github.com/Hosiang1026/CarzyMarx/blob/master/app/release/app-release.apk) 
+## 安装包下载: [CarzyMarx.apk](https://github.com/Hosiang1026/CarzyMarx/raw/master/app/release/app-release.apk) 
